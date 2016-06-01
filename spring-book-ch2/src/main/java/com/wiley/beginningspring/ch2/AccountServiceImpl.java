@@ -1,15 +1,20 @@
-package com.wiley.beginning.spring.ch2;
+package com.wiley.beginningspring.ch2;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 /**
  * Created by david on 6/1/16.
  */
+@Service
 public class AccountServiceImpl implements AccountService{
     private AccountDao accountDao;
 
-    public AccountDao getAccountDao() {
-        return accountDao;
+    public AccountServiceImpl(AccountDao accountDao){
+        this.accountDao = accountDao;
     }
 
+    @Autowired
     public void setAccountDao(AccountDao accountDao) {
         this.accountDao = accountDao;
     }

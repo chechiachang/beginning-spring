@@ -1,4 +1,6 @@
-package com.wiley.beginning.spring.ch2;
+package com.wiley.beginningspring.ch2;
+
+import org.springframework.stereotype.Repository;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,6 +8,7 @@ import java.util.Map;
 /**
  * Created by david on 6/1/16.
  */
+@Repository
 public class AccountDaoInMemoryImpl implements AccountDao{
     private Map<Long,Account> accountsMap = new HashMap();
     {
