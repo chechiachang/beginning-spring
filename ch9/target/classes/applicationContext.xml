@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="show1" class="com.my.app.MyBean">
+        <property name="message" value="#{systemProperties['user.language']}"/>
+    </bean>
+
+    <bean id="show2" class="com.my.app.Show">
+        <property name="instrument" value="Piano"/>
+        <property name="song" value="Turning Tables"/>
+    </bean>
+
+    <bean id="show3" class="com.my.app.Show">
+        <property name="instrument" value="Guitar"/>
+        <property name="song" value = "#{show3.guitarSong()}"/>
+    </bean>
+</beans>
