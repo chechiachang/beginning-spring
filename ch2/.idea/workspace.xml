@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4423ccfb-e874-4e78-8227-0cb4349b8b30" name="Default" comment="" />
+    <list default="true" id="ab797b35-d42b-4510-9e2e-860a8ae23d82" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begin-spring.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/spring-book-ch2.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/src/main/java/com/wiley/beginningspring/ch2/Account.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/src/main/java/com/wiley/beginningspring/ch2/AccountDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/src/main/java/com/wiley/beginningspring/ch2/AccountDaoInMemoryImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/src/main/java/com/wiley/beginningspring/ch2/AccountService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/src/main/java/com/wiley/beginningspring/ch2/AccountServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/src/main/java/com/wiley/beginningspring/ch2/Ch2BeanConfiguration.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/src/main/java/com/wiley/beginningspring/ch2/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/src/main/java/com/wiley/beginningspring/ch2/ch2-beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/src/test/java/com/wiley/beginningspring/AppTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/target/classes/com/wiley/beginningspring/ch2/Account.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/target/classes/com/wiley/beginningspring/ch2/AccountDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/target/classes/com/wiley/beginningspring/ch2/AccountDaoInMemoryImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/target/classes/com/wiley/beginningspring/ch2/AccountService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/target/classes/com/wiley/beginningspring/ch2/AccountServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/target/classes/com/wiley/beginningspring/ch2/Ch2BeanConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/target/classes/com/wiley/beginningspring/ch2/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-book-ch2/target/test-classes/com/wiley/beginningspring/AppTest.class" afterPath="" />
+    </list>
     <ignored path="begin-spring-ch8.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,6 +59,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="begin-spring-ch8" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -75,28 +118,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="begin-spring-ch8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="begin-spring" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -198,16 +227,16 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4423ccfb-e874-4e78-8227-0cb4349b8b30" name="Default" comment="" />
-      <created>1464941191473</created>
+      <changelist id="ab797b35-d42b-4510-9e2e-860a8ae23d82" name="Default" comment="" />
+      <created>1464941092033</created>
       <option name="number" value="Default" />
-      <updated>1464941191473</updated>
-      <workItem from="1464941194016" duration="192000" />
+      <updated>1464941092033</updated>
+      <workItem from="1464941095016" duration="33000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192000" />
+    <option name="totallyTimeSpent" value="33000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1419" y="24" width="1867" height="1056" extended-state="6" />
@@ -296,7 +325,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|spring</last-edited>
+          <last-edited>Spring|begin-spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
